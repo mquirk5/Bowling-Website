@@ -1,0 +1,32 @@
+h1{
+    background-color: lightslategray;
+    color: azure;
+    text-align: center;
+}
+h2{
+    background-color: lightslategray;
+    color: azure;
+    text-align: center;
+}
+h3{
+    background-color: lightslategrey;
+    color: azure;
+}
+body{
+    background-color: #6667AB;
+    padding: 50px;
+}
+div{
+    background-color: azure;
+    text-align: center;
+}
+a:link, a:visited{
+    color: #0000CD;
+    border: 3px #000000;
+}
+table{
+    text-align: center;
+}
+td:nth-child(even) {
+    background-color: #D3D3D3;
+}
